@@ -1236,7 +1236,7 @@ font-family:Arial,sans-serif;
     /* =========================================================
        开场字幕时间：
        3 / 2 / 1 各 1 秒
-       Hi benben / 两句祝福 各 2 秒
+       Hi 风间 / 两句祝福 各 2 秒
        生日快乐 3 秒并慢慢消失
        全自动，无需点击
        ========================================================= */
@@ -1244,7 +1244,7 @@ font-family:Arial,sans-serif;
       { text: "3", duration: 1000, countdown: true },
       { text: "2", duration: 1000, countdown: true },
       { text: "1", duration: 1000, countdown: true },
-      { text: "Hi benben", duration: 2000 },
+      { text: "Hi 风间", duration: 2000 },
       { text: "愿你成为自己的太阳", duration: 2000 },
       { text: "活出自己理想的模样", duration: 2000 },
       { text: "生日快乐", duration: 4000 }
